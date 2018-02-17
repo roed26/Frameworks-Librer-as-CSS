@@ -1,5 +1,44 @@
 
 div{
-  border: 1px solid #000;
+  /*border: 1px solid #000;*/
   padding: 2px;
 }
+
+body{
+  background: url(../imagenes/background.jpg) !important;
+  background-size: 100%;
+}
+
+.back-content{
+  background-color: #78b9e08a;
+}
+
+.back-content-left{
+  background-color: #6dc8eacf;
+}
+
+.back-content-right{
+  background-color: #f7d5a1;
+}
+
+
+.plato-img-size{
+  width: 100px;
+  height: 100px;
+}
+.usuario-img-size{
+  width: 70px;
+  height: 60px;
+}
+
+.border-coment{
+  border: 1px solid #c732ec;
+}
+
+.text-article{
+  color: #c732ec;
+}
+
+.button.hollow {
+  border: 1px solid #c732ec;
+  color: #c732ec; }
