@@ -41,3 +41,12 @@ background: url(../imagenes/lupa.png) no-repeat !important;
 .redes-sociales{
   position: absolute;
 }
+.alinear-texto{
+text-align: right;
+}
+@media (max-width: 400px) {
+  .alinear-texto{
+  text-align: center;
+  }
+
+}
